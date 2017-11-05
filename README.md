@@ -1,5 +1,5 @@
 # eth-wallet [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> ethereum-wallet,eth-wallet,ethereum,blockchain
+> Ethereum Wallet
 
 ## Installation
 
@@ -12,7 +12,6 @@ $ npm install --save eth-wallet
 ```js
 const ethWallet = require('eth-wallet');
 
-ethWallet('Rainbow');
 ```
 ## License
 
